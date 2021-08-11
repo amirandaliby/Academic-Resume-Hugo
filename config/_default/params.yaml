@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: earth
+theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: S
 
 # SEO
 
