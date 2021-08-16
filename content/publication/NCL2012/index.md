@@ -1,9 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Iterative Channel Estimation of LDPC Coded OFDM–IDMA Underwater Acoustic
-
-Communications"
+title: "Iterative Channel Estimation of LDPC-Coded OFDM–IDMA Underwater Acoustic Communications"
 authors: 
 - Andaliby Joghataie, Amir
 - Johnston, Martin
@@ -23,7 +21,7 @@ publication_types: ["4"]
 publication: "Newcastle University, School of Electrical and Electronic Engineering"
 publication_short: "Newcastle University, ECE Dept"
 
-abstract: ""
+abstract: "In this report, performance of the promising combination of Orthogonal Frequency-Division Multiplexing (OFDM) and synchronous downlink Interleave-Division Multiple Access (IDMA), known as OFDM-IDMA over Under Water Acoustic channel is examined. We also extend two iterative procedures which helps together to enhance efficiency of the system, including Low Density Parity Check (LDPC) coding using Sum-Product Algorithm (SPA) and iterative channel estimation manipulating Last Mean Square (LMS) algorithm. However, to ease the experiment following assumptions have been considered, two users are going to access the system simultaneously, perfect Doppler compensation and also perfect information in receiver (synchronous downlink receiver)."
 
 # Summary. An optional shortened abstract.
 summary: ""
