@@ -25,18 +25,15 @@ main:
     url: '#volunteer-experience'
     weight: 30
     parent: Experience
-    
-
-
   - name: Certifications
     url: '#projects'
     weight: 30
   - name: Publicationss
-    url: '#publicationss'
+    url: '#featured'
     weight: 40
-  - name: News
-    url: '#Accomplishments'
-    weight: 50
+#  - name: News
+#    url: '#accomplishments'
+#    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
