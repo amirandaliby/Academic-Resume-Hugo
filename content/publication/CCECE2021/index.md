@@ -5,7 +5,7 @@ title: "A Multi-Agent Krill Herd Algorithm"
 authors: 
 - Andaliby Joghataie, Amir
 - Gulliver, T. Aaron
-date: 2021-09-16T15:50:31-04:00
+date: 2021-08-16T15:50:31-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
