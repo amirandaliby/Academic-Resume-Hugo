@@ -17,9 +17,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Data Science
-- Information Theory
+- Applied machine learning for wireless communications and networks
+- AI-based optimization including Nature-inspired metaheuristic algorithms
+- Data science and big data analysis
 
 # Education to show in About widget
 education:

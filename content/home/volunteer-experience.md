@@ -24,6 +24,18 @@ widget: experience
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Educational Actvities Committee, Member
+    company: Institute of Electrical and Electronics Engineers (IEEE), Canada
+    company_url: ''
+    location: 'Ottawa, ON'
+    date_start: '2021-05-01'
+    date_end: ''
+    description: |2-
+        Responsibilities:
+        * Assistance to IEEE Canada entities in the creation and diffusion of continuing education material
+        * Liaison with engineering institutions within the Region on the subject of continuing education
+        * Liaison with engineering institutions within the Region on the subject of continuing education
+
   - title: Treasurer
     company: Institute of Electrical and Electronics Engineers (IEEE), Ottawa Section
     company_url: ''
@@ -42,7 +54,7 @@ experience:
     company: Institute of Electrical and Electronics Engineers (IEEE), Ottawa Section
     company_url: ''
     location: 'Ottawa, ON'
-    date_start: '2021-01-01'
+    date_start: '2021-02-01'
     date_end: ''
     description: |2-
         Responsibilities:
