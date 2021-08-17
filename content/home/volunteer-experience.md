@@ -28,7 +28,7 @@ experience:
     company: Institute of Electrical and Electronics Engineers (IEEE), Canada
     company_url: ''
     location: 'Ottawa, ON'
-    date_start: '2021-05-01'
+    date_start: '2021-06-01'
     date_end: ''
     description: |2-
         Responsibilities:

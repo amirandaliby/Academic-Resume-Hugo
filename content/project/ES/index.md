@@ -16,8 +16,8 @@ links:
 - icon: certificate
   icon_pack: 
   name: Certificate
-  url: https://udemy-certificate.s3.amazonaws.com/image/UC-a4967fa1-79d9-4144-8fa0-a43c37ad70d8.jpg
-url_code: ""
+  url:  "https://udemy-certificate.s3.amazonaws.com/image/UC-e7c94b29-1936-44b8-8587-270657960644.jpg"
+url_code:
 url_pdf: ""
 url_slides: ""
 url_video: ""
