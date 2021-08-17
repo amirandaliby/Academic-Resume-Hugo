@@ -24,7 +24,7 @@ widget: experience
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Educational Actvities Committee, Member
+  - title: Educational Activities Committee, Member
     company: Institute of Electrical and Electronics Engineers (IEEE), Canada
     company_url: ''
     location: 'Ottawa, ON'
