@@ -19,8 +19,8 @@ publishDate: "2021-09-01T16:03:43-04:00"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*** Under Review"
-publication_short: "*** Under Review"
+publication: "** Under Review"
+publication_short: "** Under Review"
 
 abstract: "A Wireless Sensor Network (WSN) is a group of spatially dispersed sensors that monitor the physical conditions of the environment and collect data at a central location. Sensor deployment is one of the main design aspects of WSNs as this affects network coverage. In this paper, a new Multi-Agent Krill Herd Algorithm (MA-KHA) is employed to maximize the Mobile Wireless Sensor Network (MWSN) coverage. Simulation results indicate that the agent-agent interactions in MA-KHA improves MWSN coverage compared to Krill Herd Algorithms (KHAs), Under review Particle Swarm Optimization (PSO), and the Firefly Algorithm (FA)."
 
