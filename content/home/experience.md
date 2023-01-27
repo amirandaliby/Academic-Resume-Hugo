@@ -22,26 +22,45 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Software Quality Assurance Engineer
+  - title: Software Quality Assurance Engineer, Infrastructures
+    company: Nokia Canada, IP Networks R&D
+    company_url: ''
+    location: 'Ottawa, ON'
+    date_start: '2023-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities:
+        * End-to-end feature testing on 7705 SAR product family
+        * Test development & automation in TCL, Bash, Python, and Perl
+        * Containerization, CI/CD, config management systems (Puppet, Ansible)
+        * System administration: Linux RPM & DEB
+
+        Projects:
+        * Autoregress: automate nightly regressions processing and execution (Bash and Python)
+        * Build satellite topologies using SR7750 and IXR7250 routers to handle high-speed traffic exchange
+
+  - title: Software Quality Assurance Engineer, Deep Packet Inspection (DPI)
     company: Nokia Canada, IP Networks R&D
     company_url: ''
     location: 'Ottawa, ON'
     date_start: '2018-05-01'
-    date_end: ''
+    date_end: '2022-12-31'
     description: |2-
         Responsibilities:
-        * AnalysingSoftware QA and traffic detection on 7x50 service routers
+        * Software QA and traffic detection on 7x50 service routers
         * Test development  & automation: TCL/Bash/Python scripting
-        * DevOps: containerization, CI/CD, task automations 
-        * Lab maintenance & System administration: Linux RPM & DEB
+        * Containerization: Docker, Swarm, K8
+        * Lab maintenance & System administration: Linux RPM & DEB, Windows, and macOS
         * Elasticsearch administration
         * Co-op training and supervision
 
         Projects:
-        * Mobile and web Task automation CI/CD with Ansible, Appium, Selenium using docker and orchestrated by Jenkins
+        * Automation of DNS over HTTPS (DoH) and DNS over TLS (DoT) server check and traffic generation on mobile and web (Appium and Selenium)
+        * Automation of Mobile and web traffic generation and analysis with Appium and Selenium using docker written in Bash, Python (BDD method) and Perl
+        * Build Elasticsearch with Beats data shippers: Filebeat and Metricbeat to handle Cflowd records over Logstash
         * Deliver full ELK stack setup over docker for traffic logging 
         * TCL test development for encrypted SNI in QUIC and TLS1.3
-        * Shared Network Storage (NAS)
+        * Shared Network Storage (NAS) setup
         * Countless number of HW, system and VM setups for testing
         
   - title: Tier II Network Engineer, Co-op
@@ -83,17 +102,17 @@ experience:
         Projects:
         * eTourism platform for Iran Cultural Heritage Handicrafts and Tourism Organization (ICHTO) and Iran Post
 
-  - title:  Network Engineer 
-    company: Mobile Communication Company of Iran (MCI), Radio Access Network
-    company_url: ''
-    location: 'Tehran, Iran'
-    date_start: '2013-12-01'
-    date_end: '2015-08-30'
-    description: |2-
-        Responsibilities:
-        * Top-level monitoring and troubleshooting of Radio Network Controllers (RNCs) for over 300 stations, serving over 25000 NodeB cells and 65 million subscribers
-        * Operation and maintenance, data configuration, and troubleshooting of WCDMA and LTE RAN equipment (Huawei and Ericsson equipment)
-        * OptiX NG SDH equipment commissioning and maintenance (Huawei equipment)
+  # - title:  Network Engineer 
+  #   company: Mobile Communication Company of Iran (MCI), Radio Access Network
+  #   company_url: ''
+  #   location: 'Tehran, Iran'
+  #   date_start: '2013-12-01'
+  #   date_end: '2015-08-30'
+  #   description: |2-
+  #       Responsibilities:
+  #       * Top-level monitoring and troubleshooting of Radio Network Controllers (RNCs) for over 300 stations, serving over 25000 NodeB cells and 65 million subscribers
+  #       * Operation and maintenance, data configuration, and troubleshooting of WCDMA and LTE RAN equipment (Huawei and Ericsson equipment)
+  #       * OptiX NG SDH equipment commissioning and maintenance (Huawei equipment)
 
   - title:  Techinical Manager 
     company: Telka Mobin Sanat Co.

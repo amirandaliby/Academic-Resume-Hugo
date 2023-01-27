@@ -6,11 +6,11 @@ title: Amir Andaliby, MASc, MSc, MIEEE
 superuser: true
 
 # Role/position/tagline
-role: QA Test and Automation | DevOps | DPI Network Analysis | Wireless Communications and Networks
+role: SDET | DevOps
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Nokia Canada | IEEE Canada
+- name: Nokia | IEEE Canada
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -66,4 +66,4 @@ email: ""
 highlight_name: false
 ---
 
-I'm a is a software engineer at Nokia Canada IP Networks R&D. I have 6+ years of experience in mobile and wireless communications, network Deep Packet Inspection (DPI) analysis, QA testing & automation leveraging configuration management, CI/CD, and DevOps processes. I am also a self-taught web developer with a strong eye for innovative design and a keen understanding of techniques geared toward UX/UI.
+I'm a is a software engineer at Nokia Canada IP Networks R&D. I have 9+ years of experience in mobile and wireless communications, network Deep Packet Inspection (DPI) analysis, QA testing & automation leveraging configuration management, CI/CD, and DevOps processes. I am also a self-taught web developer with a strong eye for innovative design and a keen understanding of techniques geared toward UX/UI.
