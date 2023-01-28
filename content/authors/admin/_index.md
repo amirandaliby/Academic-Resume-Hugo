@@ -66,4 +66,4 @@ email: ""
 highlight_name: false
 ---
 
-I'm a is a software engineer at Nokia Canada IP Networks R&D. I have 9+ years of experience in mobile and wireless communications, network Deep Packet Inspection (DPI) analysis, QA testing & automation leveraging configuration management, CI/CD, and DevOps processes. I am also a self-taught web developer with a strong eye for innovative design and a keen understanding of techniques geared toward UX/UI.
+I'm a skilled QA software engineer with 9+ years of hands-on experience in different areas, such as Deep Packet Inspection (DPI) analysis, SDET, Cisco networking, and mobile networks (Radio Access). I'm expert in layer 3-4 networking, Linux administration, virtualization, scripting, QA test development for critical deployments, leveraging configuration management, CI/CD, and DevOps processes. My previous experiences also includes Cisco configuration and troubleshooting (R&S), WLAN design using Ekahau Site Survey (ESS), and spectrum analysis. I am also a self-taught web developer with a strong eye for innovative design and a keen understanding of techniques geared toward UX/UI.
