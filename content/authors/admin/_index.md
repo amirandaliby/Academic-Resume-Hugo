@@ -1,37 +1,39 @@
 ---
 # Display name
-title: Amir Andaliby, MASc, MSc, MIEEE
+title: Amir Andaliby, MASc, MSc, SMIEEE
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: SDET | DevOps
+role: Sr. SW Infrastructure Architect | IEEE Senior Member | Faculty Member & Educator
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Nokia | IEEE Canada
+- name: Nokia | Algonquin College | IEEE
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Applied machine learning for wireless communications and networks
+- High-Availability and Fault-Tolerant System Design
+- Systems Architecture for Carrier-Grade Networks
+- Platform Engineering and Infrastructure Automation
+- Observability, Reliability, and Performance Engineering
 - AI-based optimization including Nature-inspired metaheuristic algorithms
-- Data science and big data analysis
 
 # Education to show in About widget
 education:
   courses:
   - course: MASc in Computer Engineering
-    institution: University of Victoria, BC, Canada | GPA 4.0
+    institution: University of Victoria, BC, Canada
     year: 2018
   - course: MSc in Communications & Signal Processing
-    institution: Newcastle University, Newcastle, UK | GPA 4.0
+    institution: Newcastle University, Newcastle, UK
     year: 2012
   - course: BSc in Electrical Engineering 
-    institution: Azad University, Tehran, Iran | GPA 3.5
+    institution: Azad University, Tehran, Iran
     year: 2011
 
 # Social/Academic Networking
@@ -66,4 +68,12 @@ email: ""
 highlight_name: false
 ---
 
-I'm a skilled QA software engineer with 9+ years of hands-on experience in different areas, such as Deep Packet Inspection (DPI) analysis, SDET, Cisco networking, and mobile networks (Radio Access). I'm expert in layer 3-4 networking, Linux administration, virtualization, scripting, QA test development for critical deployments, leveraging configuration management, CI/CD, and DevOps processes. My previous experiences also includes Cisco configuration and troubleshooting (R&S), WLAN design using Ekahau Site Survey (ESS), and spectrum analysis. I am also a self-taught web developer with a strong eye for innovative design and a keen understanding of techniques geared toward UX/UI.
+I am a seasoned technology leader and educator with extensive experience across software architecture, network engineering, teaching, and volunteer leadership. Throughout my career, I have been driven by a passion for innovation, knowledge sharing, and community engagement. I am passionate about leveraging my technical expertise, teaching experience, and leadership skills to drive innovation, empower communities, and shape the future of technology.
+
+As a Senior Software Architect at Nokia, I specialize in infrastructure software development, automation, and DevOps, leading the design and delivery of robust, high-quality solutions that enable next-generation communication networks. My technical expertise is complemented by a proven track record of streamlining development processes and driving complex projects to successful completion.
+
+In academia, I serve as an Adjunct Professor and Lead Instructor at Algonquin College’s School of Advanced Technology, where I take pride in fostering the intellectual growth of future engineers. Creating engaging learning environments and mentoring students through their academic and professional journeys has been a profoundly rewarding part of my career.
+
+Within the IEEE community, I actively contribute to leadership and strategic initiatives. I serve as IEEE Region 7 (Canada) Digital Transformation Advisor, IEEE Canada Public Policy Chair East Area Liaison, and Ottawa Computer Society Chair, while also being a Senior IEEE Member and an IEEE-HKN Honorary Member. These roles allow me to strengthen industry partnerships, influence public policy, and enhance IEEE’s impact across academia, industry, and government.
+
+My contributions have been recognized with multiple awards and distinctions, reflecting both my professional achievements and my dedication to advancing engineering, education, and volunteerism.
