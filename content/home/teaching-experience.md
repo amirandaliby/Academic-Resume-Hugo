@@ -24,9 +24,20 @@ widget: experience
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: International Teaching Assistant Consultant (ITAC), PT
+  - title: Adjunct Professor | Security, Systems & Networking (ICT-SSN)
+    company: Algonquin College, School of Advanced technology
+    company_url: 'https://www.algonquincollege.com/'
+    location: 'Ottawa, ON'
+    date_start: '2023-05-01'
+    date_end: 'Present'
+    description: |2-
+        Teaching courses:
+        * CST 8207 (GNU/Linux System Support): Introduced students to GNU/Linux, covering system setup, configuration, and management. Focused on command-line utilities, basic shell scripting, and standalone system administration.
+        * CST 8305 (GNU/Linux Server Administration): Advanced server administration, including multi-user management, networking, system hardening, troubleshooting, and scripting for automated tasks.
+
+  - title: International Teaching Assistant Consultant (ITAC)
     company: University of Victoria, learning and Teaching Center (LTC)
-    company_url: ''
+    company_url: 'https://www.uvic.ca/learningandteaching/index.php'
     location: 'Victoria, BC'
     date_start: '2016-08-01'
     date_end: '2017-04-30'
@@ -35,9 +46,9 @@ experience:
         * Provide discipline-specific seminars, and TA workshops & training as TA professional development
         * One-on-one support and consultancy with over 700 international TAs for the entire university on an ongoing basis
 
-  - title: Teaching Assistant (TA), PT
-    company: University of Victoria, ECE Dept.
-    company_url: ''
+  - title: Teaching Assistant (TA)
+    company: University of Victoria, Electrical and Computer Engineering Department
+    company_url: 'https://www.uvic.ca/ecs/ece/index.php'
     location: 'Victoria, BC'
     date_start: '2015-09-01'
     date_end: '2017-08-30'

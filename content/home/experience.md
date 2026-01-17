@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Software Quality Assurance Engineer, Infrastructures
-    company: Nokia Canada, IP Networks R&D
+  - title: Senior SW Infrastructure Architect | Network Infrastructures
+    company: Nokia, IP Networks R&D
     company_url: ''
     location: 'Ottawa, ON'
     date_start: '2023-01-01'
@@ -36,11 +36,12 @@ experience:
         * System administration: Linux RPM & DEB
 
         Projects:
+        * Network Infrastructures Regression ecosystem.
         * Autoregress: automate nightly regressions processing and execution (Bash and Python)
         * Build satellite topologies using SR7750 and IXR7250 routers to handle high-speed traffic exchange
 
-  - title: Software Quality Assurance Engineer, Deep Packet Inspection (DPI)
-    company: Nokia Canada, IP Networks R&D
+  - title: Software Quality Assurance Engineer | SR Quality Assurance
+    company: Nokia, IP Networks R&D
     company_url: ''
     location: 'Ottawa, ON'
     date_start: '2018-05-01'
@@ -63,8 +64,8 @@ experience:
         * Shared Network Storage (NAS) setup
         * Countless number of HW, system and VM setups for testing
         
-  - title: Tier II Network Engineer, Co-op
-    company: Insurance Company of BC (ICBC), Network and Data Center
+  - title: Tier II Network Engineer | Network Infrastructure Division
+    company: Insurance Company of British Columbia (ICBC), Network and Data Center
     company_url: ''
     location: 'Vancouver, BC'
     date_start: '2018-01-01'
@@ -77,8 +78,8 @@ experience:
         * WLAN redesign using Ekahau ESS, ESS spectrum analyzer
         * Cisco configuration automation using Ansible
 
-  - title: Deep Packet Inspection (DPI) Analyst, Co-op
-    company: Nokia Canada, IP Networks R&D
+  - title: Deep Packet Inspection (DPI) Analyst, SR Quality Assurance
+    company: Nokia, IP Networks R&D
     company_url: ''
     location: 'Ottawa, ON'
     date_start: '2017-09-01'
@@ -91,38 +92,6 @@ experience:
         Projects:
         * Socket programming on Python
         * Setup test environments, including simulators, virtual machines, hardware, and workstations
-
-  - title:  Co-Founder and Managing Director 
-    company: RTP-Owj Co.
-    company_url: ''
-    location: 'Tehran, Iran'
-    date_start: '2013-12-01'
-    date_end: '2015-08-30'
-    description: |2-
-        Projects:
-        * eTourism platform for Iran Cultural Heritage Handicrafts and Tourism Organization (ICHTO) and Iran Post
-
-  # - title:  Network Engineer 
-  #   company: Mobile Communication Company of Iran (MCI), Radio Access Network
-  #   company_url: ''
-  #   location: 'Tehran, Iran'
-  #   date_start: '2013-12-01'
-  #   date_end: '2015-08-30'
-  #   description: |2-
-  #       Responsibilities:
-  #       * Top-level monitoring and troubleshooting of Radio Network Controllers (RNCs) for over 300 stations, serving over 25000 NodeB cells and 65 million subscribers
-  #       * Operation and maintenance, data configuration, and troubleshooting of WCDMA and LTE RAN equipment (Huawei and Ericsson equipment)
-  #       * OptiX NG SDH equipment commissioning and maintenance (Huawei equipment)
-
-  - title:  Techinical Manager 
-    company: Telka Mobin Sanat Co.
-    company_url: ''
-    location: 'Tehran, Iran'
-    date_start: '2013-03-01'
-    date_end: '2015-11-30'
-    description: |2-
-        Projects:
-        * Transmission Installment (TI), node upgrade, and radio drive test & optimization in several provinces of Iran
         
 design:
   columns: '2'
