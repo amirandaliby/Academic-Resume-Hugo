@@ -27,13 +27,13 @@ interests:
 education:
   courses:
   - course: MASc in Computer Engineering
-    institution: University of Victoria, BC, Canada
+    institution: University of Victoria | BC, Canada
     year: 2018
   - course: MSc in Communications & Signal Processing
-    institution: Newcastle University, Newcastle, UK
+    institution: Newcastle University | Newcastle, UK
     year: 2012
   - course: BSc in Electrical Engineering 
-    institution: Azad University, Tehran, Iran
+    institution: Azad University | Tehran, Iran
     year: 2011
 
 # Social/Academic Networking
