@@ -29,7 +29,7 @@ experience:
     company_url: 'https://www.algonquincollege.com/'
     location: 'Ottawa, ON'
     date_start: '2023-05-01'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         Teaching courses:
         * CST 8207 (GNU/Linux System Support): Introduced students to GNU/Linux, covering system setup, configuration, and management. Focused on command-line utilities, basic shell scripting, and standalone system administration.

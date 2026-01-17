@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: 'Ottawa, ON'
     date_start: '2023-01-01'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         Responsibilities:
         * End-to-end feature testing on 7705 SAR product family
