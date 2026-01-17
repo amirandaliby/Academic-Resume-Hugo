@@ -17,9 +17,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- High-Availability and Fault-Tolerant System Design
-- Systems Architecture for Carrier-Grade Networks
-- Platform Engineering and Infrastructure Automation
+- High-Availability and Fault-Tolerant Design
 - Observability, Reliability, and Performance Engineering
 - AI-based optimization including Nature-inspired metaheuristic algorithms
 
@@ -68,12 +66,10 @@ email: ""
 highlight_name: false
 ---
 
-I am a seasoned technology leader and educator with extensive experience across software architecture, network engineering, teaching, and volunteer leadership. Throughout my career, I have been driven by a passion for innovation, knowledge sharing, and community engagement. I am passionate about leveraging my technical expertise, teaching experience, and leadership skills to drive innovation, empower communities, and shape the future of technology.
+I am a seasoned technology leader and educator with extensive experience across software architecture, network engineering, teaching, and volunteer leadership. My contributions have been recognized with multiple awards and distinctions, reflecting both my professional achievements and my dedication to advancing engineering, education, and volunteerism.
 
-As a Senior Software Architect at Nokia, I specialize in infrastructure software development, automation, and DevOps, leading the design and delivery of robust, high-quality solutions that enable next-generation communication networks. My technical expertise is complemented by a proven track record of streamlining development processes and driving complex projects to successful completion.
+Throughout my career, I have been driven by a passion for innovation, knowledge sharing, and community engagement. As a Senior Software Architect at Nokia, I specialize in infrastructure software development, automation, and DevOps, leading the design and delivery of robust, high-quality solutions that enable next-generation communication networks. My technical expertise is complemented by a proven track record of streamlining development processes and driving complex projects to successful completion.
 
 In academia, I serve as an Adjunct Professor and Lead Instructor at Algonquin College’s School of Advanced Technology, where I take pride in fostering the intellectual growth of future engineers. Creating engaging learning environments and mentoring students through their academic and professional journeys has been a profoundly rewarding part of my career.
 
 Within the IEEE community, I actively contribute to leadership and strategic initiatives. I serve as IEEE Region 7 (Canada) Digital Transformation Advisor, IEEE Canada Public Policy Chair East Area Liaison, and Ottawa Computer Society Chair, while also being a Senior IEEE Member and an IEEE-HKN Honorary Member. These roles allow me to strengthen industry partnerships, influence public policy, and enhance IEEE’s impact across academia, industry, and government.
-
-My contributions have been recognized with multiple awards and distinctions, reflecting both my professional achievements and my dedication to advancing engineering, education, and volunteerism.
