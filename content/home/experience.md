@@ -13,7 +13,6 @@ title: Recent Work Experience
 subtitle:
 
 # Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
 # Experiences.
@@ -22,9 +21,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior SW Infrastructure Architect | Network Infrastructures
-    company: Nokia, IP Networks R&D
-    company_url: ''
+  - title: Senior SW Infrastructure Architect
+    company: Network Infrastructures | Nokia
+    company_url: 'https://www.nokia.com/'
     location: 'Ottawa, ON'
     date_start: '2023-01-01'
     date_end: ''
@@ -37,12 +36,11 @@ experience:
 
         Projects:
         * Network Infrastructures Regression ecosystem.
-        * Autoregress: automate nightly regressions processing and execution (Bash and Python)
-        * Build satellite topologies using SR7750 and IXR7250 routers to handle high-speed traffic exchange
+        * Autoregress: Automate nightly regressions processing and execution (Bash and Python)
 
-  - title: Software Quality Assurance Engineer | SR Quality Assurance
-    company: Nokia, IP Networks R&D
-    company_url: ''
+  - title: Software Quality Assurance Engineer
+    company: SR Quality Assurance, IP Networks R&D | Nokia
+    company_url: 'https://www.nokia.com/'
     location: 'Ottawa, ON'
     date_start: '2018-05-01'
     date_end: '2022-12-31'
@@ -63,10 +61,11 @@ experience:
         * TCL test development for encrypted SNI in QUIC and TLS1.3
         * Shared Network Storage (NAS) setup
         * Countless number of HW, system and VM setups for testing
+        * Build satellite topologies using SR7750 and IXR7250 routers to handle high-speed traffic exchange
         
-  - title: Tier II Network Engineer | Network Infrastructure Division
-    company: Insurance Company of British Columbia (ICBC), Network and Data Center
-    company_url: ''
+  - title: Tier II Network Engineer
+    company: Network Infrastructure Division | Insurance Company of British Columbia (ICBC)
+    company_url: 'https://www.icbc.com/'
     location: 'Vancouver, BC'
     date_start: '2018-01-01'
     date_end: '2018-04-30'
@@ -78,9 +77,9 @@ experience:
         * WLAN redesign using Ekahau ESS, ESS spectrum analyzer
         * Cisco configuration automation using Ansible
 
-  - title: Deep Packet Inspection (DPI) Analyst, SR Quality Assurance
-    company: Nokia, IP Networks R&D
-    company_url: ''
+  - title: Deep Packet Inspection (DPI) Analyst
+    company: SR Quality Assurance, IP Networks R&D | Nokia
+    company_url: 'https://www.nokia.com/'
     location: 'Ottawa, ON'
     date_start: '2017-09-01'
     date_end: '2018-12-30'

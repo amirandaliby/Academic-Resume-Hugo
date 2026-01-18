@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Volunteer Experience"
+title: "Recent Volunteer Experience"
 subtitle: ""
 summary: ""
 authors: []
@@ -25,9 +25,59 @@ widget: experience
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Region 7 East Area Liaison
+    company: Public Policy Chair | IEEE Canada
+    company_url: 'https://www.ieee.ca/'
+    location: 'Ottawa, ON'
+    date_start: '2025-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities:
+        * Policy Advocacy: Engage with policymakers to promote IEEE’s positions on technology-related public policies.
+        * Regional Coordination: Serve as a bridge between IEEE Canada’s Public Policy Committee and IEEE sections in Eastern Canada, ensuring alignment and effective communication.
+        * Awareness & Outreach: Organize events, webinars, and discussions to educate IEEE members and the public on policy developments and their implications. 
+        * Technical Expertise: Provide insights on emerging technologies and their impact to inform policy recommendations.
 
-  - title: Section Executives, Chair
-    company: Institute of Electrical and Electronics Engineers (IEEE), Ottawa Section
+  - title: Digital Transformation Advisor
+    company: IEEE Canada
+    company_url: 'https://www.ieee.ca/'
+    location: 'Ottawa, ON'
+    date_start: '2025-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities:
+        * Strategic Guidance: Develop and implement digital transformation strategies to align with IEEE Canada’s goals.
+        * Technology Modernization: Oversee the optimization of digital platforms and infrastructure for improved usability.
+        * Innovation Leadership: Introduce emerging technologies to streamline workflows and improve operational efficiency.
+      
+  - title: Past Section Chair
+    company: Executive Committee | IEEE Ottawa Section
+    company_url: 'https://www.ieeeottawa.ca/'
+    location: 'Ottawa, ON'
+    date_start: '2025-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities:
+        * Provide guidance and support to the current executive committee based on past experience.
+        * Continuity & Strategic Support to Ensure a smooth transition of leadership and contribute to long-term planning. 
+        * Mentorship & Development: Assist in mentoring new leaders and fostering professional growth within the section.
+        * Institutional Knowledge: Preserve and share historical context to maintain consistency in section initiatives.
+
+  - title: Chapter Chair
+    company: Computer Society | IEEE Ottawa Section
+    company_url: 'https://www.ieeeottawa.ca/'
+    location: 'Ottawa, ON'
+    date_start: '2024-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities:
+        * Technical Leadership: Spearhead initiatives to advance cutting-edge computing technologies and trends, aligning with IEEE Computer Society objectives.
+        * Event Organization: Lead the planning and execution of high-quality technical workshops, conferences, and webinars.
+        * Collaborative Projects: Establish interdisciplinary collaborations with industry, academia, and other IEEE entities to address real-world challenges in computing and IT.
+        * Technical Outreach: Promote computer science education through community and academic engagement initiatives.
+      
+  - title: Section Chair
+    company: Executive Committee | IEEE Ottawa Section
     company_url: 'https://www.ieeeottawa.ca/'
     location: 'Ottawa, ON'
     date_start: '2023-01-01'
@@ -46,19 +96,19 @@ experience:
         * Represent the Section at all IEEE gatherings.
         * Transfer Section records to the new Section Chair at the end of the year.
 
-  - title: Web Committee, Member
-    company: Institute of Electrical and Electronics Engineers (IEEE), Canada
+  - title: Committee Member
+    company: Web Committee | IEEE Canada
     company_url: 'https://www.ieee.ca/'
     location: 'Canada'
     date_start: '2022-01-01'
     date_end: ''
     description: |2-
         Responsibilities:
-        * Maintain the IEEE Canada region website www.ieee.ca
+        * Maintain the IEEE Canada region website
         * Maintain email lists, DNS name server, and web host
 
-  - title: Industry Relations Committee, Member
-    company: Institute of Electrical and Electronics Engineers (IEEE), Canada
+  - title: Committee Member
+    company: Industry Relations Committee | IEEE Canada
     company_url: 'https://www.ieee.ca/'
     location: 'Canada'
     date_start: '2022-01-01'
@@ -70,8 +120,8 @@ experience:
         * Support technology entrepreneurship activities
         * Organize / co-organize networking events
 
-  - title: Publications Committee, Webmaster
-    company: Institute of Electrical and Electronics Engineers (IEEE), Ottawa Section
+  - title: Webmaster
+    company: Publications Committee | IEEE Ottawa Section
     company_url: 'https://www.ieeeottawa.ca/'
     location: 'Ottawa, ON'
     date_start: '2021-09-01'
@@ -82,8 +132,8 @@ experience:
         * Update new events and posts
         * Maintain email lists, DNS server and web host
 
-  - title: Membership Development Committee, Chair
-    company: Institute of Electrical and Electronics Engineers (IEEE), Ottawa Section
+  - title: Committee Chair
+    company: Membership Development Committee | IEEE Ottawa Section
     company_url: 'https://www.ieeeottawa.ca/'
     location: 'Ottawa, ON'
     date_start: '2021-02-01'
@@ -92,8 +142,8 @@ experience:
         Responsibilities:
         * Collaborate with section groups and chapters to coordinate membership development activities within the section                                                                    
         
-  - title: Section Executives, Treasurer
-    company: Institute of Electrical and Electronics Engineers (IEEE), Ottawa Section
+  - title: Section Treasurer
+    company: Executive Committee | IEEE Ottawa Section
     company_url: 'https://www.ieeeottawa.ca/'
     location: 'Ottawa, ON'
     date_start: '2021-01-01'

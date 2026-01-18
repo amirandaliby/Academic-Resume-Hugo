@@ -26,15 +26,18 @@ main:
   - name: Certifications
     url: '#projects'
     weight: 30
-  - name: Publicationss
-    url: '#featured'
-    weight: 40
   - name: Honors & Awards
     url: '#accomplishments'
+    weight: 40
+  - name: Publicationss
+    url: '#publications'
     weight: 50
+  - name: News & Talks
+    url: '#news-talks'
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

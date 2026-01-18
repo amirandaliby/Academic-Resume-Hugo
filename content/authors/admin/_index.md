@@ -6,7 +6,7 @@ title: Amir Andaliby, MASc, MSc, SMIEEE
 superuser: true
 
 # Role/position/tagline
-role: Sr. SW Infrastructure Architect | IEEE Senior Member | Faculty Member & Educator
+role: Sr. SW Infrastructure Architect | Faculty Member & Educator | IEEE Senior Member
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,13 +25,13 @@ interests:
 education:
   courses:
   - course: MASc in Computer Engineering
-    institution: University of Victoria | BC, Canada
+    institution: University of Victoria, Department of Electrical and Computer Engineering | BC, Canada
     year: 2018
   - course: MSc in Communications & Signal Processing
-    institution: Newcastle University | Newcastle, UK
+    institution: Newcastle University, Department of Electrical and Electronics Engineering | Newcastle, UK
     year: 2012
   - course: BSc in Electrical Engineering 
-    institution: Azad University | Tehran, Iran
+    institution: Azad University, Department of Electrical Engineering | Tehran, Iran
     year: 2011
 
 # Social/Academic Networking
@@ -66,10 +66,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a seasoned technology leader and educator with extensive experience across software architecture, network engineering, teaching, and volunteer leadership. My contributions have been recognized with multiple awards and distinctions, reflecting both my professional achievements and my dedication to advancing engineering, education, and volunteerism.
+I am a seasoned technology leader and educator with extensive experience across software architecture, network engineering, teaching, and volunteer leadership. My contributions have been recognized with multiple awards and distinctions, reflecting both my professional achievements and my dedication to engineering and education.
 
 Throughout my career, I have been driven by a passion for innovation, knowledge sharing, and community engagement. As a Senior Software Architect at Nokia, I specialize in infrastructure software development, automation, and DevOps, leading the design and delivery of robust, high-quality solutions that enable next-generation communication networks. My technical expertise is complemented by a proven track record of streamlining development processes and driving complex projects to successful completion.
 
 In academia, I serve as an Adjunct Professor and Lead Instructor at Algonquin College’s School of Advanced Technology, where I take pride in fostering the intellectual growth of future engineers. Creating engaging learning environments and mentoring students through their academic and professional journeys has been a profoundly rewarding part of my career.
-
-Within the IEEE community, I actively contribute to leadership and strategic initiatives. I serve as IEEE Region 7 (Canada) Digital Transformation Advisor, IEEE Canada Public Policy Chair East Area Liaison, and Ottawa Computer Society Chair, while also being a Senior IEEE Member and an IEEE-HKN Honorary Member. These roles allow me to strengthen industry partnerships, influence public policy, and enhance IEEE’s impact across academia, industry, and government.
+Within the IEEE community, a Senior IEEE Member, I actively contribute to leadership and strategic initiatives. I served numerous positions at IEEE Region 7 (Canada) and IEEE Ottawa Section, while also being an IEEE-HKN Honorary Member.
