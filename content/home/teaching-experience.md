@@ -24,6 +24,18 @@ widget: experience
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Sessional Instructor
+    company: Bachelor of Information Technology – Network Technology (BITNET), School of Information Technology (CSIT) | Carleton University
+    company_url: 'https://carleton.ca/'
+    location: 'Ottawa, ON'
+    date_start: '2026-09-01'
+    date_end: ''
+    description: |2-
+        Teaching DevOps (Fall 2026–Present):
+        * Teach DevOps in the BITNET program at Carleton University's School of Information Technology, offered in partnership with Algonquin College's School of Advanced Technology.
+        * Bring software infrastructure architecture and automation experience into the classroom, connecting DevOps principles with the program's network technology focus.
+        * Help students understand how software development, infrastructure operations, and automation work together in modern networked environments.
+
   - title: Adjunct Professor
     company: Information & Communications Technology – Security, Systems & Networking (ICT-SSN), School of Advanced technology | Algonquin College
     company_url: 'https://www.algonquincollege.com/'

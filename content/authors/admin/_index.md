@@ -6,20 +6,22 @@ title: Amir Andaliby, MASc, MSc, SMIEEE
 superuser: true
 
 # Role/position/tagline
-role: Sr. SW Infrastructure Architect | Faculty Member & Educator | IEEE Senior Member
+role: Sr. SW Infrastructure Architect | Educator | IEEE Senior Member
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Nokia | Algonquin College | IEEE
+- name: Nokia | Carleton University | Algonquin College | IEEE
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- High-Availability and Fault-Tolerant Design
-- Observability, Reliability, and Performance Engineering
-- AI-based optimization including Nature-inspired metaheuristic algorithms
+- Software Architecture and Reliable Networked Systems
+- Infrastructure Automation, DevOps, and Observability
+- Applied AI and Optimization for Engineering Workflows
+- Engineering Education and Mentorship
+- Technical Leadership and Industry–Academia Collaboration
 
 # Education to show in About widget
 education:
@@ -66,9 +68,10 @@ email: ""
 highlight_name: false
 ---
 
-I am a seasoned technology leader and educator with extensive experience across software architecture, network engineering, teaching, and volunteer leadership. My contributions have been recognized with multiple awards and distinctions, reflecting both my professional achievements and my dedication to engineering and education.
+I am a seasoned technology leader and educator with extensive experience across software architecture, network engineering, teaching, and volunteer leadership. Throughout my career, I have been driven by a passion for innovation, knowledge sharing, and community engagement.
 
-Throughout my career, I have been driven by a passion for innovation, knowledge sharing, and community engagement. As a Senior Software Architect at Nokia, I specialize in infrastructure software development, automation, and DevOps, leading the design and delivery of robust, high-quality solutions that enable next-generation communication networks. My technical expertise is complemented by a proven track record of streamlining development processes and driving complex projects to successful completion.
+As a Senior Software Architect at Nokia, I specialize in infrastructure software development, automation, and DevOps, leading the design and delivery of robust, high-quality solutions that enable next-generation communication networks. My technical expertise is complemented by a strong track record of streamlining development processes and guiding complex initiatives from strategy through successful delivery.
 
-In academia, I serve as an Adjunct Professor and Lead Instructor at Algonquin College’s School of Advanced Technology, where I take pride in fostering the intellectual growth of future engineers. Creating engaging learning environments and mentoring students through their academic and professional journeys has been a profoundly rewarding part of my career.
-Within the IEEE community, a Senior IEEE Member, I actively contribute to leadership and strategic initiatives. I served numerous positions at IEEE Region 7 (Canada) and IEEE Ottawa Section, while also being an IEEE-HKN Honorary Member.
+In academia, I serve as an Adjunct Professor and Lead Instructor at Algonquin College's School of Advanced Technology. I also teach at Carleton University's School of Information Technology (CSIT), bringing industry experience into the classroom and supporting the growth of future engineers. Creating engaging learning environments and mentoring students through their academic and professional journeys has been one of the most rewarding dimensions of my career.
+
+I also contribute actively within IEEE Canada region as well as Ottawa Section through different leadership roles. Through these responsibilities, I help strengthen industry partnerships, support strategic initiatives, and expand IEEE's impact across academia, industry, and government. My work has been recognized through multiple awards and distinctions, reflecting both my professional achievements and my dedication to advancing engineering, education, and volunteer service.
